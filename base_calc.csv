@@ -1,0 +1,101 @@
+ride_id,rideable_type,ride_time,start_station_name,start_station_id,end_station_name,end_station_id,member_casual
+000001F70CA28603,classic_bike,00:02:35,"Peoria St & Jackson Blvd",13158,"900 W Harrison St",13028,member
+0000033BAC7DD047,electric_bike,00:18:04,,,,,member
+00000B15294F9057,electric_bike,00:08:17,,,,,casual
+00001004F8DF01C8,classic_bike,00:07:48,"Prairie Ave & Garfield Blvd",TA1307000160,"Woodlawn Ave & 55th St",TA1307000164,casual
+00001352515FD211,classic_bike,00:06:05,"Calumet Ave & 33rd St",13217,"MLK Jr Dr & 29th St",TA1307000139,member
+000017F398759373,classic_bike,00:04:30,"Western Ave & Granville Ave",KA1504000129,"Maplewood Ave & Peterson Ave",KA1504000130,member
+000018486CBEF63A,classic_bike,00:06:33,"Wolcott Ave & Polk St",TA1309000064,"Western Ave & Fillmore St",644,member
+000018FEE543E653,electric_bike,00:08:19,"Kingsbury St & Kinzie St",KA1503000043,,,casual
+000019B6351D28DF,electric_bike,00:05:05,"May St & Taylor St",13160,"Racine Ave & 15th St",13304,member
+00001FE687D42F41,classic_bike,00:02:16,"Damen Ave & Chicago Ave",13132,"Wood St & Chicago Ave",637,member
+00002268949A0FFC,electric_bike,00:13:25,"Campbell Ave & Augusta Blvd",410,"Larrabee St & Oak St",KA1504000116,member
+0000233189BA39E3,electric_bike,00:12:19,,,"Milwaukee Ave & Fullerton Ave",428,casual
+00002376582F1F10,electric_bike,00:14:14,,,"Damen Ave & Chicago Ave",13132,casual
+00002447D8785F1C,classic_bike,00:28:19,"Morgan St & Lake St*",chargingstx4,"Broadway & Barry Ave",13137,member
+000028BC6D9349BE,electric_bike,00:02:53,"Kingsbury St & Kinzie St",KA1503000043,"Clinton St & Washington Blvd",WL-012,member
+000033796795749E,electric_bike,00:12:52,"Damen Ave & Thomas St (Augusta Blvd)",TA1307000070,"Franklin St & Lake St",TA1307000111,member
+000033B708FAE6C1,classic_bike,00:05:45,"Ashland Ave & Lake St",13073,"Wood St & Chicago Ave",637,member
+000033F6D13D8A2B,electric_bike,00:03:27,"Orleans St & Merchandise Mart Plaza",TA1305000022,,,member
+000034ECB83D0B43,classic_bike,00:13:51,"Green St & Madison St",TA1307000120,"Eckhart Park",13289,member
+0000416965E7126A,electric_bike,00:12:26,,,"Field Blvd & South Water St",15534,member
+000044E96B486CB8,electric_bike,00:02:56,"Clarendon Ave & Gordon Ter",13379,,,member
+00004C4C6E17E9D3,electric_bike,00:02:48,"Shields Ave & 31st St",KA1503000038,,,member
+00004CA8559469E9,classic_bike,00:13:38,"Aberdeen St & Monroe St",13156,"Kingsbury St & Kinzie St",KA1503000043,member
+00004E6D39E71EB4,classic_bike,00:04:23,"Southport Ave & Wrightwood Ave",TA1307000113,"Sheffield Ave & Fullerton Ave",TA1306000016,member
+00004F1155C77ECE,classic_bike,00:10:22,"Clark St & Elm St",TA1307000039,"Ashland Ave & Division St",13061,member
+0000516BE7DBF9FE,classic_bike,00:21:21,"Blue Island Ave & 18th St",13135,"Wabash Ave & Roosevelt Rd",TA1305000002,member
+00005761EBE7BF9C,classic_bike,00:14:18,"Sedgwick St & Huron St",TA1307000062,"Clark St & Ida B Wells Dr",TA1305000009,member
+00005ABAED10EF89,electric_bike,00:04:44,,,"DuSable Lake Shore Dr & North Blvd",LF-005,member
+00005EC09187627C,classic_bike,00:09:53,"Wells St & Evergreen Ave",TA1308000049,"Wells St & Randolph St",TA1305000030,member
+000061B34F5A10A4,classic_bike,00:07:19,"Larrabee St & Menomonee St",TA1306000007,"Sheffield Ave & Webster Ave",TA1309000033,member
+00006251510B0307,classic_bike,00:04:35,"Ravenswood Ave & Lawrence Ave",TA1309000066,"Paulina St & Montrose Ave",TA1309000021,member
+000062AC37B08ABE,classic_bike,00:08:54,"DuSable Lake Shore Dr & Wellington Ave",TA1307000041,"Pine Grove Ave & Waveland Ave",TA1307000150,member
+0000639BE4090C5A,classic_bike,00:04:20,"Clybourn Ave & Division St",TA1307000115,"Halsted St & Clybourn Ave",331,member
+00006CBA1F051C7C,classic_bike,00:06:32,"Clinton St & Roosevelt Rd",WL-008,"Clinton St & Tilden St",13037,casual
+00006CC95E4CCEF4,electric_bike,00:05:51,"Racine Ave & Fullerton Ave",TA1306000026,,,member
+00007300E7C55FF8,electric_bike,00:00:12,"Carpenter St & Huron St",13196,,,member
+00007658222CBDF5,classic_bike,00:19:38,"Canal St & Jackson Blvd",13138,"Racine Ave & 18th St",13164,member
+000079B8D745D59E,electric_bike,00:06:22,"Delano Ct & Roosevelt Rd",KA1706005007,"May St & Taylor St",13160,member
+00007E9949470660,electric_bike,00:07:53,"Halsted St & Fulton St",23003,"Dearborn Pkwy & Delaware Pl",TA1307000128,member
+00007E9EDF280388,electric_bike,00:16:29,"Kedzie Ave & Milwaukee Ave",13085,"Wilton Ave & Diversey Pkwy",TA1306000014,member
+00007EA72314E5AB,electric_bike,00:04:35,"Columbus Dr & Randolph St",13263,"State St & Randolph St",TA1305000029,member
+000087F534C91CB5,classic_bike,00:05:47,"Clark St & Lake St",KA1503000012,"Canal St & Madison St",13341,casual
+0000881FF662E7F9,classic_bike,00:05:34,"Sheffield Ave & Fullerton Ave",TA1306000016,"Lincoln Ave & Diversey Pkwy",TA1307000064,casual
+00008F187F284A7F,electric_bike,00:16:58,"Broadway & Argyle St",13108,,,casual
+0000903D6B7C70CA,classic_bike,00:12:43,"Ada St & Washington Blvd",13353,"Western Ave & Monroe St",15667,member
+0000925D38B7722C,electric_bike,00:21:00,,,,,casual
+000097FDF13755CE,classic_bike,02:06:00,"McClurg Ct & Ohio St",TA1306000029,"Sheffield Ave & Webster Ave",TA1309000033,casual
+00009812CDCB8D3C,classic_bike,00:13:13,"Burnham Harbor",15545,"Federal St & Polk St",SL-008,member
+00009C7061F12E71,classic_bike,00:19:30,"Damen Ave & Sunnyside Ave",TA1309000012,"Clark St & Bryn Mawr Ave",KA1504000151,casual
+00009E06AC9E8FF4,electric_bike,00:03:13,,,,,member
+0000A44D4B58B8A0,classic_bike,00:16:11,"Orleans St & Hubbard St",636,"Dearborn St & Monroe St",TA1305000006,member
+0000A516825171E9,electric_bike,00:21:57,,,,,member
+0000A7FAFB8C7D58,electric_bike,00:08:57,"Leavitt St & Belmont Ave",KA17018068,"Wilton Ave & Belmont Ave",TA1307000134,casual
+0000AB54F17D5D26,classic_bike,00:04:36,"Woodlawn Ave & 58th St",22002,"Kimbark Ave & 53rd St",TA1309000037,member
+0000AD4F2376F4C3,electric_bike,00:15:18,,,,,casual
+0000AEE6A928FBB7,classic_bike,01:45:15,"Broadway & Wilson Ave",13074,"Sheridan Rd & Lawrence Ave",TA1309000041,casual
+0000B0AA568E63CB,classic_bike,00:07:33,"MLK Jr Dr & 29th St",TA1307000139,"State St & 35th St",TA1307000129,member
+0000B1262DB50115,electric_bike,00:03:40,,,,,member
+0000B8C63C09EDDB,classic_bike,00:06:03,"Clinton St & Madison St",TA1305000032,"Franklin St & Jackson Blvd",TA1305000025,casual
+0000BB813C8D3183,classic_bike,00:07:59,"Montrose Harbor",TA1308000012,"Montrose Harbor",TA1308000012,casual
+0000C1874B01628D,classic_bike,00:26:20,"Wilton Ave & Belmont Ave",TA1307000134,"Wells St & Concord Ln",TA1308000050,casual
+0000C3382290D067,electric_bike,00:04:02,"Delano Ct & Roosevelt Rd",KA1706005007,"Wabash Ave & Roosevelt Rd",TA1305000002,casual
+0000C33EB7F92AED,classic_bike,00:09:28,"Southport Ave & Wellington Ave",TA1307000006,"Broadway & Cornelia Ave",13278,member
+0000C9AA5E124BAB,electric_bike,00:20:27,,,"Halsted St & 21st St",13162,member
+0000C9ADE5F31C27,classic_bike,00:52:56,"Sheridan Rd & Montrose Ave",TA1307000107,"Fairbanks Ct & Grand Ave",TA1305000003,casual
+0000CA1A3F48D619,classic_bike,00:06:43,"Damen Ave & Cortland St",13133,"Wood St & Milwaukee Ave",13221,casual
+0000CA34A7F8D228,electric_bike,00:03:10,"Clark St & Bryn Mawr Ave",KA1504000151,"Clark St & Elmdale Ave",KA1504000148,member
+0000CAE5C57D4A71,electric_bike,00:00:05,"Winchester (Ravenswood) Ave & Balmoral Ave",KA1504000147,,,member
+0000CEAA351FED17,electric_bike,00:26:20,"Streeter Dr & Grand Ave",13022,"Damen Ave & Cortland St",13133,member
+0000D0E369788F4D,classic_bike,00:35:09,"Streeter Dr & Grand Ave",13022,"Ritchie Ct & Banks St",KA1504000134,casual
+0000D1CFE61C3472,electric_bike,00:28:14,"Michigan Ave & Washington St",13001,"State St & Randolph St",TA1305000029,member
+0000D271D8C7095A,electric_scooter,00:16:48,,,"N Southport Ave & W Newport Ave",20257.0,member
+0000D3D51587F5C9,classic_bike,00:11:39,"Halsted St & Clybourn Ave",331,"State St & Chicago Ave",21544,member
+0000D896C7518141,electric_scooter,00:08:37,,,"900 W Harrison St",13028,member
+0000D8FCA976E491,electric_bike,00:05:19,"Wood St & Milwaukee Ave",13221,"Western Ave & Winnebago Ave",13068,member
+0000DA0D6F215438,classic_bike,00:03:15,"Halsted St & Wrightwood Ave",TA1309000061,"Wilton Ave & Diversey Pkwy",TA1306000014,member
+0000DE1BB9C03273,electric_bike,00:11:25,,,,,member
+0000DEAC4E6C1D78,electric_bike,00:10:23,"Artesian Ave & Hubbard St",15664,"Western Ave & Winnebago Ave",13068,casual
+0000DFD84C5A1E24,electric_bike,00:24:18,,,"Stave St & Armitage Ave",13266,member
+0000E0910F7C9928,classic_bike,00:18:04,"Dusable Harbor",KA1503000064,"Shedd Aquarium",15544,casual
+0000E29F50F444CF,classic_bike,00:06:09,"Green St & Washington Blvd",13053,"Elizabeth St & Fulton St",13197,casual
+0000E30FDDD5FBF2,electric_bike,00:04:16,"Wolcott Ave & Polk St",TA1309000064,"Loomis St & Lexington St",13332,member
+0000E4C61245092C,classic_bike,00:50:24,"Shedd Aquarium",15544,"Mies van der Rohe Way & Chestnut St",15529,casual
+0000E5815E522920,electric_bike,00:06:36,,,"Broadway & Cornelia Ave",13278,member
+0000E9A6C1495FC1,electric_bike,00:02:39,"Wolcott (Ravenswood) Ave & Montrose Ave",TA1307000144,,,casual
+0000EC0E2D872EA1,classic_bike,01:01:10,"Griffin Museum of Science and Industry",KA1503000074,"DuSable Lake Shore Dr & Monroe St",13300,member
+0000ED49FFACA150,classic_bike,00:08:32,"Rush St & Superior St",15530,"Clark St & Schiller St",TA1309000024,casual
+0000ED993562A13F,electric_bike,00:02:48,"Clinton St & Washington Blvd",WL-012,,,member
+0000EE48AF86B650,classic_bike,00:04:09,"LaSalle St & Illinois St",13430,"Kingsbury St & Kinzie St",KA1503000043,member
+0000F0DC283B1EF1,classic_bike,00:42:36,"Clarendon Ave & Junior Ter",13389,"State St & Van Buren St",TA1305000035,member
+0000F7ABD33CBB0E,electric_bike,00:02:35,"California Ave & Montrose Ave",15622,"Rockwell St & Eastwood Ave",KA1504000093,member
+0000F9CBD840633E,classic_bike,00:13:57,"Wells St & Evergreen Ave",TA1308000049,"Bissell St & Armitage Ave*",chargingstx1,casual
+0000F9ED6D472D12,electric_bike,00:15:03,"Milwaukee Ave & Wabansia Ave",13243,"Clinton St & Washington Blvd",WL-012,member
+0000FA2528000817,electric_bike,00:07:41,"Calumet Ave & 18th St",13102,"Federal St & Polk St",SL-008,member
+0000FB68D18D032A,classic_bike,00:09:04,"Burling St & Diversey Pkwy",TA1309000036,"Halsted St & Dickens Ave",13192,casual
+000102216DE09EC7,classic_bike,00:11:34,"Halsted St & 37th St",TA1307000161,"Leavitt St & Archer Ave",KA1503000068,casual
+0001047C2C522324,classic_bike,00:08:11,"Clarendon Ave & Gordon Ter",13379,"Halsted St & Roscoe St",TA1309000025,member
+000105E094A92B8A,electric_bike,00:14:04,,,"Dusable Harbor",KA1503000064,member
+000106BF8016D11A,classic_bike,00:02:59,"Wells St & Hubbard St",TA1307000151,"LaSalle Dr & Huron St",KP1705001026,member
+00010989E46B2F89,classic_bike,00:18:37,"Mies van der Rohe Way & Chicago Ave",13338,"Clark St & Wrightwood Ave",TA1305000014,member
