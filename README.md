@@ -1,5 +1,5 @@
 # Cyclistic_Project
-This project focuses on analysis of transits made by clients who are categorised to two groups in order to descriptively determine habits of clients:
+This project focuses on analysis of transits made by clients who are categorised to two groups in order to <br/>descriptively determine habits of clients:
 - members - who are paying for membership in subscription-based model,
 - causals - who use Cyclistic's offer spontaneously,
 
